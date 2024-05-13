@@ -1,4 +1,4 @@
-# Connecting an AWS RDS DB Instance through EC2
+# Connecting an AWS RDS DB Instance to an EC2
 
 Follow the steps below to get started with the lab.
 
@@ -26,7 +26,7 @@ Note: You can deploy the resources in any of the six regions mentioned below:
 - ap-southeast-1 (Singapore)
 
 ***
-# Connecting an AWS RDS DB Instance through EC2
+# Connecting an AWS RDS DB Instance to an EC2
 
 ## Overview
 #### Lab Duration: 1 Hour
